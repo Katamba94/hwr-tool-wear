@@ -4,6 +4,8 @@ title: "Hybrid wear-rate model for monotone tool wear estimation: code and data"
 type: software
 license: MIT
 version: "1.0.0"
+doi: "10.5281/zenodo.24443410"
+repository-code: "https://github.com/Katamba94/hwr-tool-wear"
 date-released: "2026-11-22"
 authors:
   - family-names: "Katamba Mpoyi"

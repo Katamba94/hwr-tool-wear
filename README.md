@@ -1,5 +1,7 @@
 # Hybrid wear-rate model for monotone tool wear estimation (code and data)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24443410.svg)](https://doi.org/10.5281/zenodo.24443410)
+
 Code and derived data for the paper:
 
 > D. Katamba Mpoyi, C. Bagalwa Bienvenu, A. A. Nanha Djanan, K. Y'Ebondo Bovic, G. Pappalettera and C. Casavola, *Monotone estimation of milling tool wear with a hybrid wear-rate model and conformal prediction intervals*, submitted to Measurement Science and Technology.
@@ -67,4 +69,4 @@ Model names in the code and CSV files: `EMP` power law alone, `EMP3` three-stage
 
 ## Licence and citation
 
-Code under the MIT licence (see `LICENSE`). The NASA data set is not covered by this licence; please cite it as indicated in `data/README.md`. If you use this code, please cite the paper (see `CITATION.cff`).
+Code under the MIT licence (see `LICENSE`). The NASA data set is not covered by this licence; please cite it as indicated in `data/README.md`. If you use this code, please cite the paper and the archived version of the code: https://doi.org/10.5281/zenodo.24443410 (see `CITATION.cff`).
