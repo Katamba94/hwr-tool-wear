@@ -1,0 +1,26 @@
+{
+  "title": "Hybrid wear-rate model for monotone milling tool wear estimation: code and data",
+  "upload_type": "software",
+  "description": "Code, processed data and results for the paper 'Monotone estimation of milling tool wear with a hybrid wear-rate model and conformal prediction intervals' (submitted to Measurement Science and Technology). An empirical wear law gives the expected wear increment of each milling pass, a small neural network fed with spindle current, vibration and acoustic emission descriptors scales it by a positive factor, and the running sum of the increments gives a non-decreasing flank wear estimate. Split conformal prediction adds 90 % intervals used for the tool-change decision. The repository reproduces all tables and figures of the paper from the public NASA Ames milling data set of Agogino and Goebel, which is downloaded by a script and not redistributed.",
+  "creators": [
+    {"name": "Katamba Mpoyi, Dany", "affiliation": "Politecnico di Bari"},
+    {"name": "Bagalwa Bienvenu, Cikala", "affiliation": "Université Officielle de Bukavu; Notre Dame du Kasayi University"},
+    {"name": "Nanha Djanan, Armand Anthelme", "affiliation": "University of Yaoundé I"},
+    {"name": "Y'Ebondo Bovic, Kilundu", "affiliation": "Haute École Bruxelles-Brabant; Institut Supérieur des Techniques Appliquées, Kinshasa"},
+    {"name": "Pappalettera, Giovanni", "affiliation": "Politecnico di Bari"},
+    {"name": "Casavola, Caterina", "affiliation": "Politecnico di Bari"}
+  ],
+  "license": "MIT",
+  "keywords": [
+    "tool condition monitoring",
+    "flank wear",
+    "milling",
+    "physics-informed machine learning",
+    "monotonic neural network",
+    "conformal prediction",
+    "NASA milling data set"
+  ],
+  "related_identifiers": [
+    {"identifier": "https://data.nasa.gov/dataset/milling-wear", "relation": "references", "resource_type": "dataset"}
+  ]
+}
