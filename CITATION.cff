@@ -1,0 +1,53 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Hybrid wear-rate model for monotone tool wear estimation: code and data"
+type: software
+license: MIT
+version: "1.0.0"
+date-released: "2026-11-22"
+authors:
+  - family-names: "Katamba Mpoyi"
+    given-names: "Dany"
+    affiliation: "Politecnico di Bari"
+  - family-names: "Bagalwa Bienvenu"
+    given-names: "Cikala"
+  - family-names: "Nanha Djanan"
+    given-names: "Armand Anthelme"
+  - family-names: "Y'Ebondo Bovic"
+    given-names: "Kilundu"
+  - family-names: "Pappalettera"
+    given-names: "Giovanni"
+    affiliation: "Politecnico di Bari"
+  - family-names: "Casavola"
+    given-names: "Caterina"
+    affiliation: "Politecnico di Bari"
+preferred-citation:
+  type: article
+  title: "Monotone estimation of milling tool wear with a hybrid wear-rate model and conformal prediction intervals"
+  journal: "Measurement Science and Technology"
+  status: submitted
+  authors:
+    - family-names: "Katamba Mpoyi"
+      given-names: "Dany"
+    - family-names: "Bagalwa Bienvenu"
+      given-names: "Cikala"
+    - family-names: "Nanha Djanan"
+      given-names: "Armand Anthelme"
+    - family-names: "Y'Ebondo Bovic"
+      given-names: "Kilundu"
+    - family-names: "Pappalettera"
+      given-names: "Giovanni"
+    - family-names: "Casavola"
+      given-names: "Caterina"
+references:
+  - type: data
+    title: "Milling data set"
+    authors:
+      - family-names: "Agogino"
+        given-names: "Alice"
+      - family-names: "Goebel"
+        given-names: "Kai"
+    year: 2007
+    publisher:
+      name: "NASA Ames Research Center, NASA Prognostics Data Repository"
+    url: "https://data.nasa.gov/dataset/milling-wear"

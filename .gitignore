@@ -1,0 +1,6 @@
+# The NASA archive is downloaded by data/download_data.py and not redistributed here
+data/raw/*
+!data/raw/.gitkeep
+__pycache__/
+*.pyc
+.DS_Store

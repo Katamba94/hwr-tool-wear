@@ -1,0 +1,9 @@
+# Versions used to produce the results of the paper (Python 3.11.9, macOS 15, Apple arm64, CPU only).
+# Other recent versions should work; small numerical differences are possible in the neural-network results.
+numpy==2.4.6
+scipy==1.17.1
+pandas==3.0.6
+scikit-learn==1.9.1
+joblib==1.6.0
+torch==2.14.1
+matplotlib==3.11.2
